@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/therightboat-ctrl.png" alt="Brandon Boatright's GitHub avatar" width="96" height="96" />
+<a href="https://brandon-boatright-portfolio.onrender.com/" title="Explore Brandon’s portfolio">
+  <img src="https://github.com/therightboat-ctrl.png" alt="Tank the tech pug — visit Brandon’s portfolio" width="96" height="96" />
+</a>
 
 # Brandon Boatright
 
